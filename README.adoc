@@ -16,5 +16,5 @@ Orgbox is a complete organizational infrastructure in a single repo. It uses onl
 
 == Install instructions
 
-1. download installer script
-2. follow instructions
+. download installer script
+. follow instructions

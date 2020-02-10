@@ -1,0 +1,20 @@
+= ORGBOX
+:toc: 
+
+Orgbox is a complete organizational infrastructure in a single repo. It uses only open source software and is easy to install.
+
+== Components
+
+* microk8s for management of nodes
+* podman for container management
+* Nextcloud with integrated OnlyOffice document server for file storage and collaborative editing
+* Zulip for chat
+* Tendencii for member management
+* Jitsi for web conferencing 
+
+== System Requirements
+
+== Install instructions
+
+1. download installer script
+2. follow instructions

@@ -1,0 +1,8 @@
+= Proposed Orgbox Software
+
+* Nextcloud
+* Matrix or Zulip
+* Keycloak
+* Tendencii
+* Jitsi
+* Lime Survey
